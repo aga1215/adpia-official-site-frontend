@@ -5,6 +5,8 @@ ADPIA 공식 홈페이지의 프론트엔드입니다.
 
 > Service: <a href="https://adpia.or.kr" target="_blank" rel="noopener noreferrer">ADPIA Official Website</a>  
 > Backend Repository: <a href="https://github.com/aga1215/adpia-official-site-backend" target="_blank" rel="noopener noreferrer">adpia-backend</a>
+
+새탭으로 열기) ctrl+클릭
 ---
 
 ## Overview
