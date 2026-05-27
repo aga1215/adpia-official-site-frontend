@@ -3,8 +3,8 @@
 ADPIA 공식 홈페이지의 프론트엔드입니다.  
 동아리 소개, 모집 공지, Q&A, 커뮤니티, 아카이브, 관리자 페이지를 제공합니다.
 
-> Service: https://adpia.or.kr
-backend repo: https://github.com/aga1215/adpia-official-site-backend
+> Service: <a href="https://adpia.or.kr" target="_blank" rel="noopener noreferrer">ADPIA Official Website</a>  
+> Backend Repository: <a href="https://github.com/aga1215/adpia-official-site-backend" target="_blank" rel="noopener noreferrer">adpia-backend</a>
 ---
 
 ## Overview
